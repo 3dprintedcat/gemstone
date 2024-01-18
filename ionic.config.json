@@ -1,0 +1,7 @@
+{
+  "name": "gemstone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
